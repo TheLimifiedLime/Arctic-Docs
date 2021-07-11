@@ -4,7 +4,7 @@
     "docsify": "^4.12.1"
   },
   "scripts": {
-    "start": ""
+    "serve": "docsify serve docs"
   },
   "license": "MIT"
 }
