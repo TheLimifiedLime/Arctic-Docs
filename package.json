@@ -1,0 +1,12 @@
+{
+  "name": "arctic-docs",
+  "devDependencies": {
+    "docsify": "^4.12.1"
+  },
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
